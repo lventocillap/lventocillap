@@ -7,3 +7,8 @@ Backend developer<br>#Trabajando bajo las sombras
 # 💻 Tech Stack:
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+
+![](https://visitcount.itsvg.in/api?id=kleytusdev&label=View%20count&color=12&icon=4&pretty=true)
+    
+</div>
