@@ -22,13 +22,14 @@
     <img src="https://img.shields.io/badge/MySQL-3e6e93?style=flat&logo=mysql&logoColor=white">
     <img src="https://img.shields.io/badge/Supabase-181818?&logo=supabase&logoColor=white">
 </p>
-<p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=lventocillap&theme=radical&hide_border=false"><br/><br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lventocillap&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact"><br/>
-</p>
 
 <div align="center">
 
-[![](https://visitcount.itsvg.in/api?id=lventocillap&icon=3&color=0)](https://visitcount.itsvg.in)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=lventocillap&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+</div>
+<div align="center">
+    
+[![](https://nirzak-streak-stats.vercel.app/?user=lventocillap&theme=react&hide_border=false)
+    
 </div>
