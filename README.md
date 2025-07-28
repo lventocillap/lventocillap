@@ -7,6 +7,7 @@
 <p align="center">
     <img src="https://img.shields.io/badge/Express-1b1c31?style=flat&logo=express&logoColor=white">
     <img src="https://img.shields.io/badge/Laravel-d11509?style=flat&logo=laravel&logoColor=white">
+    <img src="https://img.shields.io/badge/NestJS-1b1c31?style=flat&logo=nestjs&logoColor=f00057">
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white">
@@ -19,6 +20,7 @@
     <img src="https://img.shields.io/badge/npm-CB3837?&logo=npm&logoColor=white">
 </p>
 <p align="center">
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?&logo=postgresql&logoColor=white">
     <img src="https://img.shields.io/badge/MySQL-3e6e93?style=flat&logo=mysql&logoColor=white">
     <img src="https://img.shields.io/badge/Supabase-181818?&logo=supabase&logoColor=white">
 </p>
