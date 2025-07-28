@@ -23,6 +23,7 @@
     <img src="https://img.shields.io/badge/PostgreSQL-316192?&logo=postgresql&logoColor=white">
     <img src="https://img.shields.io/badge/MySQL-3e6e93?style=flat&logo=mysql&logoColor=white">
     <img src="https://img.shields.io/badge/Supabase-181818?&logo=supabase&logoColor=white">
+    <img src="https://img.shields.io/badge/TypeORM-FE0803?&logo=typeorm&logoColor=white">
 </p>
 
 <div align="center">
