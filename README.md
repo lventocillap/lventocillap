@@ -18,12 +18,21 @@
 <p align="center">
     <img src="https://img.shields.io/badge/Node%20js-339933?&logo=nodedotjs&logoColor=white">
     <img src="https://img.shields.io/badge/npm-CB3837?&logo=npm&logoColor=white">
+    <img src="https://img.shields.io/badge/GraphQL-E10098.svg?style=flat&logo=graphql&logoColor=white">
+    <img src="https://img.shields.io/badge/Socket.IO-010101.svg?style=flat&logo=socketdotio&logoColor=white">
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/PostgreSQL-316192?&logo=postgresql&logoColor=white">
     <img src="https://img.shields.io/badge/MySQL-3e6e93?style=flat&logo=mysql&logoColor=white">
     <img src="https://img.shields.io/badge/Supabase-181818?&logo=supabase&logoColor=white">
-    <img src="https://img.shields.io/badge/TypeORM-FE0803?&logo=typeorm&logoColor=white">
+    <img src="https://img.shields.io/badge/Drizzle-0C0C0C.svg?style=flat&logo=drizzle&logoColor=C5F74F">
+    <img src="https://img.shields.io/badge/Redis-d61d11?style=flat&logo=redis&logoColor=white">
+</p>
+<p align="center">
+    <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?style=flat&logo=githubactions&logoColor=fff">
+    <img src="https://img.shields.io/badge/Docker-1d63ed?style=flat&logo=docker&logoColor=white">
+    <img src="https://img.shields.io/badge/AWS-232F3E.svg?style=flat&logo=amazonaws&logoColor=white">
+   <img src="https://img.shields.io/badge/Firebase-FF8F00.svg?style=flat&logo=firebase&logoColor=white">
 </p>
 
 <div align="center">
@@ -33,6 +42,6 @@
 </div>
 <div align="center">
     
-[![](https://nirzak-streak-stats.vercel.app/?user=lventocillap&theme=react&hide_border=false)
+![](https://nirzak-streak-stats.vercel.app/?user=lventocillap&theme=react&hide_border=false)
     
 </div>
