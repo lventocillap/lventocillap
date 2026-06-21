@@ -3,11 +3,13 @@
     <img src="https://img.shields.io/badge/PHP-89b4fa.svg?style=flat&logo=php&logoColor=white">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
     <img src="https://img.shields.io/badge/TypeScript-blue?style=flat&logo=typescript&logoColor=white">
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white">
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/Express-1b1c31?style=flat&logo=express&logoColor=white">
     <img src="https://img.shields.io/badge/Laravel-d11509?style=flat&logo=laravel&logoColor=white">
     <img src="https://img.shields.io/badge/NestJS-1b1c31?style=flat&logo=nestjs&logoColor=f00057">
+    <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white">
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white">
